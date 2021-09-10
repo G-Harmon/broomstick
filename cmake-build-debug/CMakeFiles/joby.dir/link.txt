@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libjoby.a CMakeFiles/joby.dir/src/simulation_pipeline.cpp.o CMakeFiles/joby.dir/src/aircraft_simulation_runner.cpp.o CMakeFiles/joby.dir/src/evotl_aircraft.cpp.o CMakeFiles/joby.dir/src/evotl_aircraft_builder.cpp.o CMakeFiles/joby.dir/src/charging_station.cpp.o CMakeFiles/joby.dir/src/simulation_runner.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libjoby.a

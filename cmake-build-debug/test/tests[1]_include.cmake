@@ -1,0 +1,5 @@
+if(EXISTS "/Users/dharabalaji/Documents/cpp_space/joby/cmake-build-debug/test/tests[1]_tests.cmake")
+  include("/Users/dharabalaji/Documents/cpp_space/joby/cmake-build-debug/test/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()
