@@ -1345,11 +1345,8 @@ CMakeFiles/joby.dir/src/simulation_runner.cpp.o: ../src/simulation_runner.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/list \
   ../include/evotl_aircraft.h \
   ../include/sim_actor.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/condition_variable \
   ../include/simulation_runner.h
 
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/condition_variable:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/shared_mutex:
 

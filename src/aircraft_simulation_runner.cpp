@@ -25,6 +25,8 @@ SimRunnerResponse AircraftSimulationActor::CollectStats()
     return response;
 }
 
+// This could use State design pattern: https://en.wikipedia.org/wiki/State_pattern
+// than the if/else, but for now it did the trick :-)
 void AircraftSimulationActor::Update(uint16_t simIterations)
 {
     /**

@@ -234,5 +234,4 @@ CMakeFiles/joby.dir/src/simulation_runner.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/list \
   /Users/dharabalaji/Documents/cpp_space/joby/include/evotl_aircraft.h \
   /Users/dharabalaji/Documents/cpp_space/joby/include/sim_actor.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/condition_variable \
   /Users/dharabalaji/Documents/cpp_space/joby/include/simulation_runner.h

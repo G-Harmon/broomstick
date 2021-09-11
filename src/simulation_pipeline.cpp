@@ -24,7 +24,8 @@ void SimulationPipeline::run(int numOfVehicles, int totalChargingStations, std::
         aircraftSimActors.emplace_back(actor);
         runner.RegisterActor(actor);
     }
-    std::this_thread::sleep_for(std::chrono::seconds(2));
+    // this was to see clean debug stmt
+//    std::this_thread::sleep_for(std::chrono::seconds(2));
     runner.StartSimulation();
 
     std::vector<SimRunnerResponse> stats;

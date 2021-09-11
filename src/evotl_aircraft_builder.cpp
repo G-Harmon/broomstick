@@ -4,8 +4,6 @@
 
 #include "evotl_aircraft_builder.h"
 
-std::unordered_map<dharas::AircraftType, dharas::EvotlAirCraftPtr> dharas::EvotlAircraftBuilder::aircraft;
-
 namespace dharas
 {
 EvotlAircraftBuilder::EvotlAircraftBuilder()
