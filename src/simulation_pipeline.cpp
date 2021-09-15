@@ -7,6 +7,8 @@
 #include <iostream>
 #include "simulation_runner.h"
 
+#include <cmath>
+
 namespace dharas
 {
 
